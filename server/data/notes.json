@@ -1,0 +1,19 @@
+[
+  {
+    "id": "note-init-1",
+    "timestamp": 1730538100000,
+    "modelId": "model-1",
+    "author": "Sharp 3D QA Lab",
+    "text": "Base-Model-TU11 Meshopt compression evaluated at SSIM 0.9987: Sharp specular reflections and normal maps fully preserved with zero geometric slivering or vertex pop.",
+    "visualRating": 5
+  },
+  {
+    "id": "note-init-2",
+    "timestamp": 1730538120000,
+    "modelId": "model-4",
+    "author": "Sharp 3D QA Lab",
+    "text": "BP-UT10 achieved 67.19% reduction with 3.2ms Meshopt WASM decode duration. Ideal candidate for default production delivery.",
+    "visualRating": 5
+  }
+]
+
